@@ -75,8 +75,5 @@ yaml
 Copy
 Edit
 
----
-
-Let me know if you'd like to include screenshots, GitHub Actions CI badge, or a contribution guide.
 
 
